@@ -61,7 +61,7 @@ For Gmail:
 
 | Stock Name | URL                                                                                | Upper Threshold | Lower Threshold |
 | ---------- | ---------------------------------------------------------------------------------- | --------------- | --------------- |
-| INFY       | [https://finance.yahoo.com/quote/INFY.NS](https://finance.yahoo.com/quote/INFY.NS) | 1600            | 1400            |
+| INFY       | [https://www.google.com/finance/quote/INFY:NSE](https://www.google.com/finance/quote/INFY:NSE) | 1600            | 1400            |
 | ...        | ...                                                                                | ...             | ...             |
 
 * ✅ Do not change column headers.
